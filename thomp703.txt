@@ -1,1 +1,1 @@
-C++ is my favorite programming language. Linux is my preferred operating system. NeoVim is my favorite "IDE".
+Linux is my preferred operating system. NeoVim is my favorite "IDE". I don't like Javascript.
